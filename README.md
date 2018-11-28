@@ -1,7 +1,7 @@
 # Apache Commons Chain Example
 
-Ejemplo de utilización de la librería commons-chain de Apache que
-implementa el patrón de diseño *Chain of Responsability*.
+Proyecto Spring Boot 2 que utiliza la librería commons-chain de Apache para
+simular una secuencia de instrucciones implementando el patrón de diseño *Chain of Responsability*.
 
 ## Flujo simulado
 
